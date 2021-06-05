@@ -21,7 +21,7 @@ Tip2：Various algorithms (just list 2 algorithms here) that use the second-deri
 - *Scipy* —— pip install scipy 
 - *opencv* —— pip install opencv-python
 
-Tip3: python > 3.6. Codes are best opened and run with PyCharm IDE. 
+Tip3: python > 3.6. Codes are best opened and run with *PyCharm* IDE. 
 
 ---
 ## Update1: 
